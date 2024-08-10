@@ -14,7 +14,7 @@ This tool is essential for developers working with memory allocation in systems 
 ### Example
 
 In the following example, the tool analyzes the memory allocation of a project and outputs a representation of the occupied addresses.
-For testing purposes, the tool uses a simple project https://github.com/jrs0ul/nes_survival by K. Lotužis
+For testing purposes, the tool uses a project https://github.com/jrs0ul/nes_survival by K. Lotužis
 after building the project you will obtain labels file in VICE format, the tool can be run with the following command
 
 ```bash
